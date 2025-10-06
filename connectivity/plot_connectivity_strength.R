@@ -1,4 +1,4 @@
-setwd("C:/Users/moser297/Box/ION/ION_Data_analysis/Baby3T-7Tpaper/R scripts/") #directory with data tables
+setwd("C:/myfolder/R scripts/") #directory with data tables
 library(tidyverse)
 library(NHANES)
 
@@ -43,3 +43,4 @@ ggplot(data3, aes(x = condition, y = values, color = condition)) +
   theme(text = element_text(size = 18),
         axis.title.x = element_blank())+
   scale_color_manual(values = c("3T" = "#8F0644", "7T" = "#13A885"))
+
