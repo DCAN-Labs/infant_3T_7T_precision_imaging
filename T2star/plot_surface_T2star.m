@@ -7,7 +7,7 @@ wb_command='/myfolder/utilities/workbench/1.4.2/workbench/bin_rh_linux64/wb_comm
 
 %example inputs
 %%%%%%%%%%
-SUB='1013';
+SUB='PB020';
 SES='MENORDIC';
 ACQ='7T16mm';
 %%%%%%%%%%%%%
