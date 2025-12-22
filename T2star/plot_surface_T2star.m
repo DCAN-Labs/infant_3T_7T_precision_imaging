@@ -49,7 +49,7 @@ save([base_folder '/sub-' SUB '/sub-' SUB '_acq-' ACQ '_T2star_average_val.mat']
 % create histogram after saving data for 3T and 7T
 clear all
 base_folder='/myfolder/T2star';
-SUB='1013'
+SUB='PB022'
 cd([base_folder '/sub-' SUB '/'])
 load(['sub-' SUB '_acq-3T2mm_T2star_average_val.mat']);
 sub_3T=sub;
