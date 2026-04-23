@@ -7,4 +7,4 @@ https://www.mathworks.com/matlabcentral/fileexchange/56783-washington-university
 
 The manuscript is currently available on bioRxiv: https://www.biorxiv.org/content/10.1101/2025.11.09.687453v1
 
-Data associated with this manuscript will be published upon publication in a journal. Instructions on how to access the data will be added to tehis README. 
+Data associated with this manuscript will be published upon publication in a journal. Instructions on how to access the data will be added to this README. 
