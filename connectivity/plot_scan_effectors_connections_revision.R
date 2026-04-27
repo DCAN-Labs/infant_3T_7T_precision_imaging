@@ -1,11 +1,7 @@
-setwd("C:/Users/moser297/Box/ION/ION_Data_analysis/Baby3T-7Tpaper/submission_NatureComms/revision") #directory with data tables
+setwd("C:/mypth/revision") #directory with data tables
 library(tidyverse)
 library(NHANES)
-#library(remotes) for pattern
-#library(ggpattern) for pattern
-# library(lme4) # Package that provides multilevel modeling with lmer()
-# library(lmerTest) # Used to estimate degrees of freedom for LMER
-# library(emmeans) #for post hoc test with lmer
+
 
 data_overview <- read.csv( "results_scan_vs_effector_right.csv", header=TRUE, sep=",") #%>%
   #filter(condition!='7T_highres')
