@@ -55,4 +55,4 @@ BISD input data has already undergone termal noise removal with NORDIC (see for 
 
 All data (3T and 7T) are combined withing the respective 'func' directories. They are differentiated using the BIDS format `acq` label (`acq-3T2mm`; `acq-7T16mm` (for 1.6mm resolution) and `acq-7T125mm` (for 1.25mm resolution)).
 
-Please refer to the manuscript for a further description of the input data and preprocessing steps. 
+Please refer to the manuscript for a more detailed description of the input data and preprocessing steps. 
