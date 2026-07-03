@@ -11,7 +11,7 @@ Data associated with this manuscript will be published upon journal publication.
 
 Please see the description below for information on the structure of the available neuroimaging data. Additional source data for a subset of Figures in the paper is available with the journal publication. 
 
-# Fnfant 3T/7T Precision Imaging Data
+# Infant 3T/7T Precision Imaging Data
 
 Data in this repository are organized following [BIDS standard](https://bids.neuroimaging.io/).
 
