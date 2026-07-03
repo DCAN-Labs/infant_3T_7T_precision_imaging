@@ -1,4 +1,4 @@
-# infant 3T/7T precision imaging codebase
+# Infant 3T/7T Precision Imaging Codebase
 This code repo contains the code used to create the figures in the publication  "Precision functional imaging in infants using multi-echo fMRI at 7T", including the code used for calculating safe power limits for scanning infants at the 7T Terra scanner at the Center for Magnetic Resonance Research (RefVolCalculator).
 
 For reading in connectivity matrices in Matlab, the packages 'cifti-matlab' and gifti' and Connectome Workbench commands are used in Matlab.
@@ -11,7 +11,7 @@ Data associated with this manuscript will be published upon journal publication.
 
 Please see the description below for information on the structure of the available neuroimaging data. Additional source data for a subset of Figures in the paper is available with the journal publication. 
 
-# infant 3T/7T precision imaging data
+# Fnfant 3T/7T Precision Imaging Data
 
 Data in this repository are organized following [BIDS standard](https://bids.neuroimaging.io/).
 
